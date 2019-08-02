@@ -1,4 +1,4 @@
-from selenium import webdriver
+﻿from selenium import webdriver
 import re
 from selenium.webdriver.common.by import  By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -26,8 +26,8 @@ def search():
     #browser.find_element_by_name('weibo-login').click()
     browser.find_element_by_xpath('//*[@id="J_OtherLogin"]/a[1]').click() #点击微博登录
     sleep(3)
-    browser.find_element_by_name('username').send_keys('13183107978')
-    browser.find_element_by_name('password').send_keys('why19960628')
+    browser.find_element_by_name('username').send_keys('微博号')
+    browser.find_element_by_name('password').send_keys('微博密码')
 
     #a=input('请输入验证码:',)
     #browser.find_element_by_name('verifycode').send_keys(a)

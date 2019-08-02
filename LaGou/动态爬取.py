@@ -1,4 +1,4 @@
-# import pandas as pd
+﻿# import pandas as pd
 # data=pd.read_csv('cleaned.csv')
 # data=pd.DataFrame(data)
 # area=data.groupby(by='area',axis=0).mean()['price']
@@ -14,7 +14,7 @@ from time import sleep
 import random
 
 # cookie
-# cookie = 'X_HTTP_TOKEN=42daf4b72327b2812301813651bf5e71415983ed09; _gid=GA1.2.695915883.1563180907; _gat=1; Hm_lvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1563180907; Hm_lpvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1563180907; _ga=GA1.2.1866721841.1563180907; user_trace_token=20190715165712-89299559-a6de-11e9-bf27-525400f775ce; LGSID=20190715165712-892996e2-a6de-11e9-bf27-525400f775ce; PRE_UTM=; PRE_HOST=; PRE_SITE=; PRE_LAND=https%3A%2F%2Fwww.lagou.com%2F; LGRID=20190715165712-89299826-a6de-11e9-bf27-525400f775ce; LGUID=20190715165712-892998c8-a6de-11e9-bf27-525400f775ce; index_location_city=%E5%85%A8%E5%9B%BD'
+cookie = '你的cookie'
 # headers
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
