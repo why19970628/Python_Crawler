@@ -77,7 +77,7 @@
 
 
 11. **DouBan_Movie**:
-- 内容： 利用正则爬取豆瓣电影详情以及影评,并导入数据库。
+- 内容： 利用正则爬取豆瓣电影所有标签下的电影详情，数据导入数据库，并批量生成词云图。
 - 对应CSDN文章：《[Python爬虫实战之爬取豆瓣详情以及影评](https://blog.csdn.net/weixin_43746433/article/details/90031364)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★☆☆☆
@@ -114,9 +114,6 @@
 - 对应CSDN文章：《[利用selenium爬取网易云音乐歌手歌曲信息并分析](https://blog.csdn.net/weixin_43746433/article/details/95243431)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★☆☆☆
-
-
-
 
 
 
