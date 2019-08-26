@@ -44,7 +44,7 @@
 
 
 
-6. **爬取链家的小区信息**:
+6. **LianJia**:
 - 内容：多线程爬取链家的北京每个地区的所有小区的信息数据。
 - 对应CSDN文章：《[爬取链家的小区信息](https://blog.csdn.net/weixin_43746433/article/details/95951341)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
@@ -52,7 +52,7 @@
 
 
 
-7. **Job_51**:
+7. **51_job**:
 - 内容： 爬取51job前程无忧简关于数据分析的职位信息，并对获取的数据进行数据清洗与分析，如各城市招聘岗位数、薪资与各城市工作地点数量，关系，学历，经验要求等关系、公司类型与对应岗位数、职位要求等可视化。
 - 对应CSDN文章：《爬取51job前程无忧简历](https://blog.csdn.net/weixin_43746433/article/details/90490227)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
@@ -69,7 +69,7 @@
 
 
 9. **QiDian_Story**:
-- 内容： 批量下载起点中文小说网的所有小说。
+- 内容： 批量下载起点中文小说网的所有小说，自动生成对应小说文件夹，并获取某一文件夹下含有某字符结尾的文件信息。
 - 对应CSDN文章：《[爬取起点小说](https://blog.csdn.net/weixin_43746433/article/details/91410332)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★☆☆☆
@@ -119,7 +119,7 @@
 
 ## 3. Scrapy框架爬虫项目介绍
 
-1. **XiuShiBaiKe**:
+1. **Qsbk**:
 - 内容： 利用Scrapy框架爬取糗事百科段子。
 - 对应CSDN文章：《[利用Scrapy框架爬取糗事百科段子](https://blog.csdn.net/weixin_43746433/article/details/91636655)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
@@ -132,6 +132,15 @@
 - 对应CSDN文章：《[利用Scrapy框架爬取传智播客课程数据](https://blog.csdn.net/weixin_43746433/article/details/94732882)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★☆☆☆
+
+
+
+3. **DangDang_Books/dangdang**:
+- 内容：爬虫：利用Scrapy框架爬取当当网搜索界面图书书名、价格、评论数量等信息
+- 对应CSDN文章：《[当当网图书爬虫与数据分析](https://blog.csdn.net/weixin_43746433/article/details/91906540)》
+- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
+- 难度：★★☆☆☆
+
 
 
 

@@ -1,0 +1,476 @@
+微软 BI 实战入门系列【持续更新中】
+https://edu.hellobi.com/course/1/overview
+1761 人学习
+~~~~~~~
+Cognos BI集群服务器架构与管理
+https://edu.hellobi.com/course/56/overview
+12 人学习
+~~~~~~~
+老头子系列出品公开课之Oracle性能优化系列
+https://edu.hellobi.com/course/48/overview
+939 人学习
+~~~~~~~
+【转】如何学习英语口语
+https://edu.hellobi.com/course/55/overview
+6 人学习
+~~~~~~~
+Power-BI免费版培训视频
+https://edu.hellobi.com/course/52/overview
+250 人学习
+~~~~~~~
+奥威Power-BI
+https://edu.hellobi.com/course/51/overview
+191 人学习
+~~~~~~~
+DataStage从入门到精通实践视频教程【精通系列】
+https://edu.hellobi.com/course/46/overview
+16 人学习
+~~~~~~~
+永洪科技2015年度用户大会嘉宾演讲视频
+https://edu.hellobi.com/course/53/overview
+196 人学习
+~~~~~~~
+菜鸟数据教你从零开始学习数据分析 【连载更新中，每周2集同步】
+https://edu.hellobi.com/course/47/overview
+2486 人学习
+~~~~~~~
+Informatica Tuning 调优完整系列课程
+https://edu.hellobi.com/course/49/overview
+731 人学习
+~~~~~~~
+Cognos 10 高级开发和应用课程
+https://edu.hellobi.com/course/50/overview
+632 人学习
+~~~~~~~
+润乾报表2018培训视频
+https://edu.hellobi.com/course/43/overview
+8 人学习
+~~~~~~~
+BI 实际工作典型问题 综合解决方案
+https://edu.hellobi.com/course/45/overview
+1106 人学习
+~~~~~~~
+数据仓库建模指南系列教程 【结合大量项目实践的长篇教程、国内首发】
+https://edu.hellobi.com/course/54/overview
+4841 人学习
+~~~~~~~
+问答社区 Cognos 疑难杂症合集【更新中】
+https://edu.hellobi.com/course/44/overview
+406 人学习
+~~~~~~~
+7.25 企业数据化运营沙龙现场录像及演讲 PPT 下载
+https://edu.hellobi.com/course/41/overview
+310 人学习
+~~~~~~~
+SAS可视化数据挖掘与分析
+https://edu.hellobi.com/course/114/overview
+157 人学习
+~~~~~~~
+DataStage从入门到精通实践视频教程【免费更新】
+https://edu.hellobi.com/course/42/overview
+1755 人学习
+~~~~~~~
+征服Spark第一季 详解Scala函数式编程
+https://edu.hellobi.com/course/120/overview
+452 人学习
+~~~~~~~
+用Excel对话数据-零基础Excel商业智能分析
+https://edu.hellobi.com/course/118/overview
+2547 人学习
+~~~~~~~
+R语言之shiny应用视频教程
+https://edu.hellobi.com/course/116/overview
+257 人学习
+~~~~~~~
+数据分析报告制作
+https://edu.hellobi.com/course/115/overview
+4490 人学习
+~~~~~~~
+网站统计分析之Google analytic介绍与应用
+https://edu.hellobi.com/course/113/overview
+229 人学习
+~~~~~~~
+Hellobi Live | 6月14日20:30 Python快速上手matplotlib可视化库
+https://edu.hellobi.com/course/117/overview
+1581 人学习
+~~~~~~~
+Hellobi Live | Python实战案例分享：爬取当当网商品数据
+https://edu.hellobi.com/course/111/overview
+1902 人学习
+~~~~~~~
+中级基础篇：R语言之数据探索
+https://edu.hellobi.com/course/112/overview
+470 人学习
+~~~~~~~
+《零基础Hadoop特训营第一期》
+https://edu.hellobi.com/course/109/overview
+203 人学习
+~~~~~~~
+ELK大数据搜索及日志分析系统原理与实践详解
+https://edu.hellobi.com/course/106/overview
+644 人学习
+~~~~~~~
+用Python进行数据挖掘-从通用的数据挖掘流程到推荐系统、自然语言处理
+https://edu.hellobi.com/course/104/overview
+1975 人学习
+~~~~~~~
+中级基础篇：R语言绘图基础
+https://edu.hellobi.com/course/105/overview
+448 人学习
+~~~~~~~
+从零开始学习Spark免费视频教程
+https://edu.hellobi.com/course/107/overview
+1835 人学习
+~~~~~~~
+Python3零基础快速入门
+https://edu.hellobi.com/course/103/overview
+3207 人学习
+~~~~~~~
+大数据BI体系架构及模型设计
+https://edu.hellobi.com/course/100/overview
+519 人学习
+~~~~~~~
+中级基础篇：R语言之高级绘图
+https://edu.hellobi.com/course/108/overview
+416 人学习
+~~~~~~~
+Storm基础应用案例讲解
+https://edu.hellobi.com/course/101/overview
+276 人学习
+~~~~~~~
+汽车电商营销020系列数据分析
+https://edu.hellobi.com/course/98/overview
+642 人学习
+~~~~~~~
+Hive实战场景应用案例
+https://edu.hellobi.com/course/97/overview
+970 人学习
+~~~~~~~
+R语言初级入门篇：数据描述性统计分析及数据抽样
+https://edu.hellobi.com/course/99/overview
+499 人学习
+~~~~~~~
+ Oracle基于实际应用产品演示和案例介绍
+https://edu.hellobi.com/course/95/overview
+144 人学习
+~~~~~~~
+初级入门篇：R语言数据导入导出
+https://edu.hellobi.com/course/96/overview
+545 人学习
+~~~~~~~
+初级入门篇：R语言数据对象及数据基本管理
+https://edu.hellobi.com/course/94/overview
+717 人学习
+~~~~~~~
+Mapreduce快速入门实例解析   
+https://edu.hellobi.com/course/92/overview
+0 人学习
+~~~~~~~
+大数据系列免费视频教程 【Linux、Hadoop、Spark、Kylin、Hive、HBase、Sqoop、日志分析等】
+https://edu.hellobi.com/course/93/overview
+7597 人学习
+~~~~~~~
+R语言与文本挖掘入门视频
+https://edu.hellobi.com/course/90/overview
+157 人学习
+~~~~~~~
+Python3数据分析与挖掘实战 
+https://edu.hellobi.com/course/110/overview
+796 人学习
+~~~~~~~
+MapReduce快速入门实例解析
+https://edu.hellobi.com/course/91/overview
+619 人学习
+~~~~~~~
+独一无二的数据仓库建模指南系列教程升级版 
+https://edu.hellobi.com/course/102/overview
+876 人学习
+~~~~~~~
+敬请期待，SVIP课程在2018年会陆续上线15套课程；购买SVIP后可先学习已上线的7套课程
+https://edu.hellobi.com/course/85/overview
+0 人学习
+~~~~~~~
+Tableau 精品入门视频教程【新手必看】
+https://edu.hellobi.com/course/88/overview
+2308 人学习
+~~~~~~~
+常用数据挖掘算法原理解释与应用
+https://edu.hellobi.com/course/89/overview
+2232 人学习
+~~~~~~~
+数据挖掘的SPSS之路
+https://edu.hellobi.com/course/86/overview
+1206 人学习
+~~~~~~~
+Power-BI V11 基于EXCEL数据源快速制作管理驾驶舱
+https://edu.hellobi.com/course/87/overview
+167 人学习
+~~~~~~~
+Tableau从入门到精通
+https://edu.hellobi.com/course/77/overview
+34 人学习
+~~~~~~~
+数据分析与挖掘案例分析实践免费视频教程(持续更新ing)
+https://edu.hellobi.com/course/83/overview
+1464 人学习
+~~~~~~~
+数据挖掘在人工智能中的应用
+https://edu.hellobi.com/course/84/overview
+551 人学习
+~~~~~~~
+用户行为分析与推荐系统设计
+https://edu.hellobi.com/course/75/overview
+32 人学习
+~~~~~~~
+爬虫利器pyspider视频教程
+https://edu.hellobi.com/course/82/overview
+1177 人学习
+~~~~~~~
+互联网数据分析与数据化运营实践
+https://edu.hellobi.com/course/74/overview
+32 人学习
+~~~~~~~
+Tableau数据分析实战
+https://edu.hellobi.com/course/79/overview
+1725 人学习
+~~~~~~~
+MySQL入门很简单（免费）
+https://edu.hellobi.com/course/78/overview
+2112 人学习
+~~~~~~~
+R&Python机器学习入门
+https://edu.hellobi.com/course/80/overview
+3756 人学习
+~~~~~~~
+SQL Server 操作实战
+https://edu.hellobi.com/course/73/overview
+33 人学习
+~~~~~~~
+Python网络爬虫实战 
+https://edu.hellobi.com/course/81/overview
+8490 人学习
+~~~~~~~
+Excel从菜鸟到高手
+https://edu.hellobi.com/course/72/overview
+32 人学习
+~~~~~~~
+快速玩转微软Power BI系列视频教程
+https://edu.hellobi.com/course/76/overview
+1986 人学习
+~~~~~~~
+Python快速入门免费课程（持续更新中）
+https://edu.hellobi.com/course/71/overview
+1093 人学习
+~~~~~~~
+数据分析师职场课程
+https://edu.hellobi.com/course/70/overview
+34 人学习
+~~~~~~~
+帆软商业智能FineBI产品介绍
+https://edu.hellobi.com/course/65/overview
+120 人学习
+~~~~~~~
+数据挖掘与R语言
+https://edu.hellobi.com/course/69/overview
+35 人学习
+~~~~~~~
+数据可视化与分析报告撰写
+https://edu.hellobi.com/course/67/overview
+35 人学习
+~~~~~~~
+润乾集算器2018培训教程
+https://edu.hellobi.com/course/64/overview
+3 人学习
+~~~~~~~
+MySQL入门很简单
+https://edu.hellobi.com/course/66/overview
+34 人学习
+~~~~~~~
+统计学基础
+https://edu.hellobi.com/course/59/overview
+71 人学习
+~~~~~~~
+初级入门篇：R语言快速入门免费视频教程
+https://edu.hellobi.com/course/68/overview
+5772 人学习
+~~~~~~~
+Power-BI 零售行业数据分析交流
+https://edu.hellobi.com/course/57/overview
+127 人学习
+~~~~~~~
+Speed-BI 云平台入门到精通视频教程
+https://edu.hellobi.com/course/63/overview
+36 人学习
+~~~~~~~
+21天零基础精通 QlikView 
+https://edu.hellobi.com/course/62/overview
+78 人学习
+~~~~~~~
+FineBI 4.0入门视频教程
+https://edu.hellobi.com/course/61/overview
+384 人学习
+~~~~~~~
+FineReport 8.0 基础培训视频
+https://edu.hellobi.com/course/60/overview
+298 人学习
+~~~~~~~
+Oracle 数据库入门教程
+https://edu.hellobi.com/course/58/overview
+1335 人学习
+~~~~~~~
+Hadoop 入门及其基础学习【连载更新中】
+https://edu.hellobi.com/course/39/overview
+2462 人学习
+~~~~~~~
+Microsoft 金牌伙伴 Halo BI 产品教程
+https://edu.hellobi.com/course/36/overview
+198 人学习
+~~~~~~~
+SSAS & Excel BI Tips（技巧、独家秘诀）【特权免费系列】
+https://edu.hellobi.com/course/35/overview
+9 人学习
+~~~~~~~
+批量调度专家-TASKCTL 学习教程
+https://edu.hellobi.com/course/40/overview
+489 人学习
+~~~~~~~
+轻松上手，BI 需求及管理 【免费连载中 每周两集】
+https://edu.hellobi.com/course/38/overview
+2742 人学习
+~~~~~~~
+手把手教你使用开源ETL工具kettle
+https://edu.hellobi.com/course/37/overview
+5292 人学习
+~~~~~~~
+SSAS & Excel BI Tips（技巧、独家秘诀）【SSAS高端进阶必备免费课程】
+https://edu.hellobi.com/course/34/overview
+955 人学习
+~~~~~~~
+QlikView开发宝典
+https://edu.hellobi.com/course/33/overview
+2279 人学习
+~~~~~~~
+INFORMATICA 从入门到项目实际开发视频教程
+https://edu.hellobi.com/course/26/overview
+56 人学习
+~~~~~~~
+Cognos 从入门到精通高级视频教程【免费更新】
+https://edu.hellobi.com/course/30/overview
+2942 人学习
+~~~~~~~
+SQL Server 2012 性能优化技术教程
+https://edu.hellobi.com/course/23/overview
+0 人学习
+~~~~~~~
+永洪敏捷BI精品培训教程
+https://edu.hellobi.com/course/31/overview
+1137 人学习
+~~~~~~~
+Oracle 入门学习视频
+https://edu.hellobi.com/course/32/overview
+1020 人学习
+~~~~~~~
+OBIEE 深入浅出精品视频教程【免费持续更新】
+https://edu.hellobi.com/course/29/overview
+1920 人学习
+~~~~~~~
+微软BI SSIS 2012 ETL 控件与案例精讲
+https://edu.hellobi.com/course/21/overview
+154 人学习
+~~~~~~~
+Smartbi电子表格版入门到精通教程—新一代Java Web 报表工具
+https://edu.hellobi.com/course/28/overview
+1043 人学习
+~~~~~~~
+SAP BO Dashboard 初级培训视频教程
+https://edu.hellobi.com/course/27/overview
+1401 人学习
+~~~~~~~
+SAP BO Dashboards新手入门视频教程【免费】
+https://edu.hellobi.com/course/25/overview
+778 人学习
+~~~~~~~
+OBIEE 深入浅出精品视频教程
+https://edu.hellobi.com/course/17/overview
+170 人学习
+~~~~~~~
+IBM Cognos 从入门到精通高级视频教程
+https://edu.hellobi.com/course/19/overview
+102 人学习
+~~~~~~~
+SSRS 2012 Metro UI 高端报表视频教程【全国首家】
+https://edu.hellobi.com/course/15/overview
+177 人学习
+~~~~~~~
+INFORMATICA 入门开发实战视频教程
+https://edu.hellobi.com/course/24/overview
+2737 人学习
+~~~~~~~
+IBM Cognos 在线学习精品课程【数据仓库、FM建模、RS高级开发、TR建模】
+https://edu.hellobi.com/course/13/overview
+0 人学习
+~~~~~~~
+微软BI SSIS 2012 ETL 控件与案例精讲课程【免费】
+https://edu.hellobi.com/course/22/overview
+1753 人学习
+~~~~~~~
+SQL SERVER 2012 从零开始学数据库管理开发视频教程
+https://edu.hellobi.com/course/20/overview
+3255 人学习
+~~~~~~~
+问答社区微软BI问题及性能优化工具合集
+https://edu.hellobi.com/course/16/overview
+531 人学习
+~~~~~~~
+SSRS 2012 WIN8 Metro 高端报表教程【免费持续更新】
+https://edu.hellobi.com/course/18/overview
+1382 人学习
+~~~~~~~
+天善问答 Oracle BIEE 常见问题视频教程【连载中】
+https://edu.hellobi.com/course/14/overview
+837 人学习
+~~~~~~~
+数据分析师成长路上的必备能力（试看）
+https://edu.hellobi.com/course/10/overview
+601 人学习
+~~~~~~~
+天善内部精品Cognos教程【体系结构、组件介绍、固定报表制作详解】
+https://edu.hellobi.com/course/12/overview
+1331 人学习
+~~~~~~~
+微软商业智能实战入门及提高视频教程
+https://edu.hellobi.com/course/8/overview
+252 人学习
+~~~~~~~
+商业智能工具，基础、行业应用，职业发展系列教程【2013年内部资料】
+https://edu.hellobi.com/course/11/overview
+1495 人学习
+~~~~~~~
+IBM Cognos 中级视频教程 【模型和报表教程】
+https://edu.hellobi.com/course/6/overview
+1241 人学习
+~~~~~~~
+数据仓库精品教程【特点，数据仓库和ETL设计思想、架构(自上而下、自下而上)、常用概念】
+https://edu.hellobi.com/course/9/overview
+3950 人学习
+~~~~~~~
+Oracle BIEE 提高视频教程【时间序列函数，多表头制作，数据同步】
+https://edu.hellobi.com/course/7/overview
+1158 人学习
+~~~~~~~
+咖啡姐 BIEE 11G 精品入门视频教程【新手必看】
+https://edu.hellobi.com/course/5/overview
+2646 人学习
+~~~~~~~
+IBM Cognos 初级教程 【入门必学】
+https://edu.hellobi.com/course/3/overview
+2545 人学习
+~~~~~~~
+BI基础知识漫谈【献给所以热爱商业智能的朋友】
+https://edu.hellobi.com/course/4/overview
+2421 人学习
+~~~~~~~
+MS SQL数据库入门及初级BI教程
+https://edu.hellobi.com/course/2/overview
+1693 人学习
+~~~~~~~

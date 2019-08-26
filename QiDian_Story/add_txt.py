@@ -1,4 +1,4 @@
-import os
+﻿import os
 def ListFilesToTxt(dir, file, wildcard, recursion):
     exts = wildcard.split(" ")
     files = os.listdir(dir)
@@ -27,5 +27,3 @@ def Test():
 
 
 Test()
-dir = "D:/软件（学习）/Python/TanZhou/爬取起点小说_语音识别"
-print(os.listdir(dir))
