@@ -152,6 +152,8 @@
 
 Maybe you could buy me a cup of coffee. Salute!
 
+<img src="https://github.com/why19970628/Python_Crawler/blob/master/reward.jpg" width="550" />
+
 
 
 
