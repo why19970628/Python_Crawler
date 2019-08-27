@@ -1,6 +1,6 @@
 ﻿## Python_Crawler：Python爬虫和Python数据分析小项目
 
-## 简介
+### 简介
 
 可以用Python实现的小项目，内容包括Python爬虫、Python数据分析等，持续更新中。
   
@@ -37,7 +37,7 @@
 
 
 5. **DangDang_Books**:
-- 内容：爬虫：当当网图书书名、书图、价格、简介、评分、评论数量等大约1000条Python图书数据。数据分析：图书评论数量分布的漏斗图、价格分布的柱状图、评论量Top、图书图片墙等可视化展示。
+- 内容：爬虫：当当网图书书名、书图、价格、简介、评分、评论数量等大约1000条Python图书数据。数据分析：图书评论数量分布的漏斗图、价格分布的柱状图、评论量Top、图书图片墙等可视化展示。<font color=red>（代码截止2019-08-25测试无误）</font>
 - 对应CSDN文章：《[当当网图书爬虫与数据分析](https://blog.csdn.net/weixin_43746433/article/details/91906540)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★☆☆☆
@@ -68,6 +68,14 @@
 
 
 
+8. **Baidu_Music**:
+- 内容： 批量下载百度音乐（千千音乐）任意歌手的所有歌曲。
+- 对应CSDN文章：《[爬取百度音乐歌曲](https://blog.csdn.net/weixin_43746433/article/details/89814523)》
+- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
+- 难度：★★☆☆☆
+
+
+
 9. **QiDian_Story**:
 - 内容： 批量下载起点中文小说网的所有小说，自动生成对应小说文件夹，并获取某一文件夹下含有某字符结尾的文件信息。
 - 对应CSDN文章：《[爬取起点小说](https://blog.csdn.net/weixin_43746433/article/details/91410332)》
@@ -81,6 +89,15 @@
 - 对应CSDN文章：《[Python爬虫实战之爬取豆瓣详情以及影评](https://blog.csdn.net/weixin_43746433/article/details/90031364)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★☆☆☆
+
+
+
+12. **taobao_and_qiantu_photo**:
+- 内容： 批量下载淘宝搜索页面（代码截止2019-08-26测试无误）。 批量下载千图网的图片（代码截止2019-07-05测试无误）。
+- 对应CSDN文章：《[爬取百度音乐歌曲](https://blog.csdn.net/weixin_43746433/article/details/89814523)》
+- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
+- 难度：★★☆☆☆
+
 
 
 ## 2.selenium框架爬虫项目介绍

@@ -1,11 +1,12 @@
-﻿# sina_-topic_spider
+﻿# sina_topic_spider
 
-爬取#周杰伦超话#微博、用户信息，并做数据分析
+- 内容： 爬取某位明星的微博超话的上万条用户信息，对爬取的结果进行EDA分析与数据可视化，如分析用户年龄，性别分布、粉丝团的地区分布，词云打榜微博内容。
 
-sina_topic.csv：一百页的微博超话，大约1000条数据。
+- 对应CSDN文章：《[博客地址](https://blog.csdn.net/weixin_43746433)》
 
 CSDN：https://blog.csdn.net/weixin_43746433
 
+微信：why19970628
 
 欢迎与我留言交流
 
