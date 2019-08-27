@@ -38,6 +38,7 @@
 
 5. **DangDang_Books**:
 - 内容：爬虫：当当网图书书名、书图、价格、简介、评分、评论数量等大约1000条Python图书数据。数据分析：图书评论数量分布的漏斗图、价格分布的柱状图、评论量Top、图书图片墙等可视化展示。<font color="red">（代码截止2019-08-25测试无误）</font>
+<font color=gray size=72>color=gray</font>
 - 对应CSDN文章：《[当当网图书爬虫与数据分析](https://blog.csdn.net/weixin_43746433/article/details/91906540)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★☆☆☆
