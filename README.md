@@ -15,7 +15,7 @@
 ### 1.基本项目介绍
 1. **Sina_Topic_Spider**:
 - 内容： 爬取某位明星的微博超话的上万条用户信息，对爬取的结果进行EDA分析与数据可视化，如分析用户年龄，性别分布、粉丝团的地区分布，词云打榜微博内容。
-- 对应CSDN文章：《[博客地址](https://blog.csdn.net/weixin_43746433)》
+- 对应CSDN文章：《[爬取新浪微博某超话用户信息](https://blog.csdn.net/weixin_43746433/article/details/100091240)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★★☆☆
 
@@ -57,14 +57,6 @@
 - 对应CSDN文章：《爬取51job前程无忧简历](https://blog.csdn.net/weixin_43746433/article/details/90490227)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★★☆☆
-
-
-
-8. **Baidu_Music**:
-- 内容： 批量下载百度音乐（千千音乐）任意歌手的所有歌曲。
-- 对应CSDN文章：《[爬取百度音乐歌曲](https://blog.csdn.net/weixin_43746433/article/details/89814523)》
-- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
-- 难度：★★☆☆☆
 
 
 
