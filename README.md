@@ -92,6 +92,13 @@
 
 
 
+13. **Movie_tiantang**:
+- 内容： 下载电影天堂最新电影数据（代码截止2019-08-28测试无误）。
+- 对应CSDN文章：《[博客地址](https://blog.csdn.net/weixin_43746433)》
+- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
+- 难度：★★☆☆☆
+
+
 ## 2.selenium框架自动化爬虫项目介绍
 1. **taobao**:
 - 内容： 爬取淘宝搜索美食的所有页面，sql文件大约4500条数据，并对美食数据进行商品标题、销量排名与商铺信息、销量的城市排名、店铺所在城市分布情况、商品价格与销售额的关系等探索性数据分析。
@@ -131,7 +138,7 @@
 1. **Qsbk**:
 - 内容： 利用Scrapy框架爬取糗事百科段子。
 - 对应CSDN文章：《[利用Scrapy框架爬取糗事百科段子](https://blog.csdn.net/weixin_43746433/article/details/91636655)》
-- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
+- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者
 - 难度：★★☆☆☆
 
 
@@ -139,7 +146,7 @@
 2. **ChuanZhi_Class**:
 - 内容： 利用Scrapy框架爬取传智播客课程数据。
 - 对应CSDN文章：《[利用Scrapy框架爬取传智播客课程数据](https://blog.csdn.net/weixin_43746433/article/details/94732882)》
-- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
+- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者
 - 难度：★★☆☆☆
 
 
@@ -156,9 +163,17 @@
 1. **Photo_qiantu**:
 - 内容：利用线程批量下载千图网的图片（代码截止2019-07-05测试无误）
 - 对应CSDN文章：《[利用多线程爬取千图网的素材图片](https://blog.csdn.net/weixin_43746433/article/details/94733927)》
-- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
+- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者
 - 难度：★★☆☆☆
 
+
+
+## 5.模拟登录与其他
+1. **Photo_Position_GoldenAPI**:
+- 内容：调用高德地图的WEB-API接口，获取图片定位（代码截止2019-08-28测试无误）
+- 对应CSDN文章：《[靠一张图片获取女朋友的定位](https://blog.csdn.net/weixin_43746433)》
+- 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者
+- 难度：★★☆☆☆
 
 
 
