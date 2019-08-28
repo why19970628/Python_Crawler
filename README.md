@@ -54,7 +54,7 @@
 
 7. **51_job**:
 - 内容： 爬取51job前程无忧简关于数据分析的职位信息，并对获取的数据进行数据清洗与分析，如各城市招聘岗位数、薪资与各城市工作地点数量，关系，学历，经验要求等关系、公司类型与对应岗位数、职位要求等可视化。
-- 对应CSDN文章：《爬取51job前程无忧简历](https://blog.csdn.net/weixin_43746433/article/details/90490227)》
+- 对应CSDN文章：《[爬取51job前程无忧简历](https://blog.csdn.net/weixin_43746433/article/details/90490227)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★★☆☆
 
@@ -153,9 +153,9 @@
 
 
 ## 4.多线程爬虫
-1. **Photo_qiantu_**:
+1. **Photo_qiantu**:
 - 内容：爬虫：利用线程批量下载千图网的图片（代码截止2019-07-05测试无误）
-- 对应CSDN文章：《[当当网图书爬虫与数据分析](https://blog.csdn.net/weixin_43746433/article/details/94733927)》
+- 对应CSDN文章：《[利用多线程爬取千图网的素材图片](https://blog.csdn.net/weixin_43746433/article/details/94733927)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★☆☆☆
 
