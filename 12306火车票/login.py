@@ -64,8 +64,8 @@ if check_response.json()['result_code'] == '4':  #'result_message': '验证码�
     # 4.校验用户名和密码
     login_url = 'https://kyfw.12306.cn/passport/web/login'
     form_data = {
-        'username': '13183107978',
-        'password': 'why19960628',
+        'username': '你的账号',
+        'password': '你的密码',
         'appid': 'otn'
     }
     login_response = session.post(login_url, data=form_data)

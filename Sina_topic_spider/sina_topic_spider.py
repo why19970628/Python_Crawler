@@ -26,8 +26,8 @@ def login_sina():
     headers = {'user-agent': 'Mozilla/5.0',
                'Referer': 'https://passport.weibo.cn/signin/login?entry=mweibo&res=wel&wm=3349&r=https%3A%2F%2Fm.weibo.cn%2F'}
     # 传递用户名和密码
-    data = {'username': '13183107978',
-            'password': 'why19960628',
+    data = {'username': '你的账号',
+            'password': '你的密码',
             'savestate': 1,
             'entry': 'mweibo',
             'mainpageflag': 1}
