@@ -1,12 +1,14 @@
+# -*- coding: utf8 -*-
 import sys
 import os
 import requests
 from lxml import etree
 from fake_useragent import UserAgent
+from urllib.parse import quote, urlencode
 import urllib
-
 import time
-version_links = ['sjb', 'hjb', 'ljb', 'bsd', 'rjb']
+import string
+version_links = ['hjb', 'ljb', 'bsd', 'rjb'] # 'sjb',
 admin = 'https://www.yixuela.com/'
 subject = 'yuwen/'
 
@@ -37,7 +39,8 @@ def crwal_artile_content(artitle_content_url, article_folder):
     for index, name in enumerate(image_name):
         name = name.split('/')[-1]
         image_save_path = os.path.join(article_folder, name)
-        url = image_name[index]
+        ori_url = image_name[index]
+        url = quote(ori_url, safe='/:?=')
         urllib.request.urlretrieve(url, image_save_path)
         print(f'{image_save_path} 爬取成功！')
 
@@ -57,7 +60,7 @@ def crwal_artile(content_link, result_folder):
             crwal_artile_content(artitle_content_url, article_folder)
         except Exception as e:
             print(e)
-        time.sleep(5)
+        time.sleep(1)
 
 
 def run(url, result_path, version):
@@ -73,9 +76,9 @@ def run(url, result_path, version):
         os.makedirs(result_folder, exist_ok=True)
         try:
             crwal_artile(content_link, result_folder)
+            time.sleep(2)
         except Exception as e:
             print(e)
-        time.sleep(5)
 
     # if len(title_) != len(title_link):
     #     raise Exception('title length error')
