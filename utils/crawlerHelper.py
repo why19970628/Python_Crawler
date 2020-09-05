@@ -1,3 +1,4 @@
+import hashlib
 import socket
 import redis
 import urllib
@@ -93,3 +94,8 @@ def cost(func):
         return res
 
     return wrapper
+
+
+def hash_str_to_md5(str: string):
+    content = hashlib.md5(str.encode("utf-8")).hexdigest()
+    return content
