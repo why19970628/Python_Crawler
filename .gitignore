@@ -1,0 +1,46 @@
+# Virtual Environment
+venv/*
+adapter/venv/*
+adapter/venv
+# Pycharm Developing Environment
+.idea/*
+
+# Python Interpreters
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/*
+
+# celery beats
+celerybeat-schedule
+
+# qiniu_sdk
+.qiniu_pythonsdk_hostscache.json
+
+# csv 和 txt
+uploads/*.csv
+uploads/*.txt
+uploads/*/*
+
+# Mac 下 Finder 自动生成文件
+.DS_Store
+
+# mypy
+.mypy_cache
+
+# pytest
+.pytest_cache
+.coverage
+
+.python-version
+ENV
+
+# Ali Cloud Serverless and FC
+.fun/*
+**/.fun/*
+
+# VScode
+.vscode
+
+# temp for now
