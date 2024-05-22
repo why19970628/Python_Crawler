@@ -69,7 +69,7 @@ def analysis_age():
     bar = (
         Bar()
             .add_xaxis(list(sorted_dic.keys()))
-            .add_yaxis("周杰伦打榜粉丝年龄分析", list(sorted_dic.values()))
+            .add_yaxis("防弹少年团超话粉丝年龄分析", list(sorted_dic.values()))
             .set_global_opts(
             yaxis_opts=opts.AxisOpts(name="数量"),
             xaxis_opts=opts.AxisOpts(name="年龄"),
@@ -97,7 +97,7 @@ def analysis_area():
     print(area_count_list)
     map = (
         Map()
-            .add("周杰伦打榜粉丝地区分析", area_count_list, "china")
+            .add("防弹少年团超话粉丝地区分析", area_count_list, "china")
             .set_global_opts(
             visualmap_opts=opts.VisualMapOpts(max_=200),
         )
@@ -128,7 +128,7 @@ def analysis_sina_content():
     word_cloud = (
         WordCloud()
             .add("", words_count_list, word_size_range=[20, 100], shape=SymbolType.DIAMOND)
-            .set_global_opts(title_opts=opts.TitleOpts(title="周杰伦打榜微博内容分析"))
+            .set_global_opts(title_opts=opts.TitleOpts(title="防弹少年团超话微博内容分析"))
     )
     word_cloud.render('word_cloud.html')
 
